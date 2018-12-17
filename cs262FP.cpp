@@ -1,4 +1,5 @@
 // CS262 Final Project
+// Authors: Aidan McLaughlin, Bo Liu
 //
 // This program reads an image from a file, converts it to grayscale, 
 // then calculates the derivatives in the X and Y directions. 
